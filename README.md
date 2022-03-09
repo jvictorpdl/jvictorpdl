@@ -1,16 +1,15 @@
+
 ### Hi there 👋
+- 🌱 I’m currently learning SQL and Python.
+- 💬 Ask me about C.
+- 🤔 I’m looking for help with Django.
+- 📫 How to reach me: jvictorpdantasl@gmail.com
+- ⚡ Fun fact: I have a better focus reading and studying in english, but my native language is Portuguese.
 
-<!--
-**jvictorpdl/jvictorpdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Oi 👋
+- 🌱 Atualmente estou aprendendo SQl, Python e Framework Django.
+- 💬 Me pergunte sobre C.
+- 🤔 Estou procurando ajuda com Django.
+- 📫 Como me contactar: jvictorpdantasl@gmail.com
+- ⚡ Fato engraçado: Consigo focar mais lendo e estudando em inglês, apesar de minha lingua nativa ser o português.
