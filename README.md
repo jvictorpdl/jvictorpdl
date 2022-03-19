@@ -8,7 +8,7 @@
 
 
 ### Oi 👋
-- 🌱 Atualmente estou aprendendo SQl, Python e Framework Django.
+- 🌱 Atualmente estou aprendendo SQl e Python.
 - 💬 Me pergunte sobre C.
 - 🤔 Estou procurando ajuda com Django.
 - 📫 Como me contactar: jvictorpdantasl@gmail.com
