@@ -1,13 +1,13 @@
 
 ### Hi there 👋
-- 🌱 I’m currently learning SQL and Python.
+- 🌱 I’m currently learning JS and React.js.
 - 💬 Ask me about C.
 - 📫 How to reach me: jvictorpdantasl@gmail.com
 - ⚡ Fun fact: I have a better focus reading and studying in english, but my native language is Portuguese.
 
 
 ### Oi 👋
-- 🌱 Atualmente estou aprendendo SQl e Python.
+- 🌱 Atualmente estou aprendendo JS e React.js.
 - 💬 Me pergunte sobre C.
 - 📫 Como me contactar: jvictorpdantasl@gmail.com
 - ⚡ Fato engraçado: Consigo focar mais lendo e estudando em inglês, apesar de minha lingua nativa ser o português.
