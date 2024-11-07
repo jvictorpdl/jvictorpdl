@@ -10,4 +10,3 @@
 - 🌱 Atualmente estou aprendendo JS e React.js.
 - 💬 Me pergunte sobre Js.
 - 📫 Como me contactar: jvictorpdantasl@gmail.com
-- ⚡ Fato engraçado: Consigo focar mais lendo e estudando em inglês, apesar de minha lingua nativa ser o português.
