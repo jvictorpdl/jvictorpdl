@@ -22,5 +22,5 @@ Atualmente, estou explorando as nuances da Inteligência Artificial Generativa e
 
 Adoraria me conectar com você\! Fique à vontade para me contatar através do meu LinkedIn ou explorar meus projetos aqui no GitHub.
 
-  * **LinkedIn:** [www.linkedin.com/in/joão-victor-lucena-dataanalyst]
-  * **Email:** [mailto:jvpdlucena@gmail.com]
+* **LinkedIn:** [João Victor Lucena - Data Analyst](https://www.linkedin.com/in/joão-victor-lucena-dataanalyst)
+* **Email:** [jvpdlucena@gmail.com](mailto:jvpdlucena@gmail.com)
